@@ -4,6 +4,9 @@
 ** This is a work in progress **
 
 ## Status
+
+[![Build Status](https://travis-ci.org/Elle-est-au-nord/guide-to-stockholm.svg?branch=master)](https://travis-ci.org/Elle-est-au-nord/guide-to-stockholm)
+
 ![Screenshot of the web app](guide-sthlm.png)
 
 ## Aim
