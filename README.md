@@ -3,6 +3,9 @@
 
 ** This is a work in progress **
 
+## Status
+![Screenshot of the web app](guide-sthlm.png)
+
 ## Aim
 Display things to do when visiting the city of Stockholm, Sweden
 
